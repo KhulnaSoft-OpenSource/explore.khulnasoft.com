@@ -2,20 +2,20 @@
   "name": "@khulnasoft-opensource/explore.khulnasoft.com",
   "description": "Explore dot KhulnaSoft is an interactive in-browser GraphQL IDE based on GraphiQL and OneGraphAuth",
   "version": "1.10.0",
-  "private": true,
+  "private": false,
   "license": "MIT",
   "files": [
     "build"
   ],
-  "author": "TED Vortex <ted.vortex@gmail.com>",
+  "author": "Md Sulaiman <infosulaimanbd@gmail.com>",
   "bugs": "https://github.com/khulnasoft-opensource/explore.khulnasoft.com/issues",
   "repository": {
     "type": "git",
     "url": "git+ssh://git@github.com/khulnasoft-opensource/explore.khulnasoft.com.git"
   },
   "engines": {
-    "node": ">=14",
-    "npm": ">=7"
+    "node": ">=20.5.1",
+    "npm": ">=9.8.1"
   },
   "dependencies": {
     "graphiql": "^1.4.7",
@@ -28,7 +28,7 @@
     "use-persisted-state": "^0.3.3"
   },
   "devDependencies": {
-    "@khulnasoft-opensource/check-engines": "^1.1.1",
+    "@khulnasoft-opensource/check-engines": "^1.2.0",
     "@khulnasoft-opensource/conventional-commit": "^1.0.1",
     "@khulnasoft-opensource/semantic-release-conventional-config": "^2.0.4",
     "@testing-library/jest-dom": "^5.15.0",
