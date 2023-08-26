@@ -1,6 +1,3 @@
-<div style="text-align: center" align="center">
-  <img alt="KhulnaSoft" src="https://i.ibb.co/7jPXt0Z/logo1-92f1a87f.png" width="300px" />
-
 # explore.khulnasoft.com
 > The path to your next Open Source contribution
 
