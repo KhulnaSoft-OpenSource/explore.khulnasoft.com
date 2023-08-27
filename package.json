@@ -14,7 +14,7 @@
     "url": "git+ssh://git@github.com/khulnasoft-opensource/explore.khulnasoft.com.git"
   },
   "engines": {
-    "node":">=14.21.3",
+    "node":">=18",
     "npm":">=9.8.1"
   },
   "dependencies": {
@@ -41,10 +41,10 @@
   "scripts": {
     "preinstall": "npx @khulnasoft-opensource/check-engines",
     "prestart": "npx @khulnasoft-opensource/check-engines",
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject",
+    "start": "react-scripts --openssl-legacy-provider start",
+    "build": "react-scripts --openssl-legacy-provider build",
+    "test": "react-scripts --openssl-legacy-provider test",
+    "eject": "react-scripts --openssl-legacy-provider eject",
     "push": "npx @khulnasoft-opensource/conventional-commit",
     "lint": "eslint . --report-unused-disable-directives",
     "format": "npm run lint -- --fix",
