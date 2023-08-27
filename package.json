@@ -14,7 +14,7 @@
     "url": "git+ssh://git@github.com/khulnasoft-opensource/explore.khulnasoft.com.git"
   },
   "engines": {
-    "node":">=20.5.1",
+    "node":">=14.21.3",
     "npm":">=9.8.1"
   },
   "dependencies": {
