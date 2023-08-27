@@ -5,7 +5,7 @@
 [![Issues](https://img.shields.io/github/issues/khulnasoft-opensource/explore.khulnasoft.com.svg?style=flat)](https://github.com/khulnasoft-opensource/explore.khulnasoft.com/issues)
 [![Releases](https://img.shields.io/github/v/release/khulnasoft-opensource/explore.khulnasoft.com.svg?style=flat)](https://github.com/khulnasoft-opensource/explore.khulnasoft.com/releases)
 [![Discord](https://img.shields.io/discord/714698561081704529.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/U2peSNf23P)
-[![Twitter](https://img.shields.io/twitter/follow/saucedopen?label=Follow&style=social)](https://twitter.com/saucedopen)
+[![Twitter](https://img.shields.io/twitter/follow/khulnasoft?label=Follow&style=social)](https://twitter.com/khulnasoft)
  
 </div>
 

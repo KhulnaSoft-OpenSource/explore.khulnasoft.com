@@ -108,7 +108,7 @@
 
 ### Bug Fixes
 
-* propagate correct open sauced app id ([40cae9a](https://github.com/khulnasoft-opensource/explore.khulnasoft.com/commit/40cae9a084da68c17363d3fe53f323f5b774398c))
+* propagate correct open khulnasoft app id ([40cae9a](https://github.com/khulnasoft-opensource/explore.khulnasoft.com/commit/40cae9a084da68c17363d3fe53f323f5b774398c))
 * remove gatsby public folder from gitignore ([4d52293](https://github.com/khulnasoft-opensource/explore.khulnasoft.com/commit/4d52293734b89d9eafc50c44a3f0f38a9254331f))
 
 
